@@ -1,0 +1,17 @@
+[8.911s] Invoking command in '/home/ubuntu/pai_ws/build/physicalai_teleop': PYTHONPATH=/home/ubuntu/pai_ws/build/physicalai_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/pai_ws/install/physicalai_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/pai_ws/build/physicalai_teleop/build --no-deps symlink_data
+[12.894s] running develop
+[15.549s] running egg_info
+[15.552s] writing physicalai_teleop.egg-info/PKG-INFO
+[15.554s] writing dependency_links to physicalai_teleop.egg-info/dependency_links.txt
+[15.558s] writing entry points to physicalai_teleop.egg-info/entry_points.txt
+[15.565s] writing requirements to physicalai_teleop.egg-info/requires.txt
+[15.567s] writing top-level names to physicalai_teleop.egg-info/top_level.txt
+[15.580s] reading manifest file 'physicalai_teleop.egg-info/SOURCES.txt'
+[15.585s] writing manifest file 'physicalai_teleop.egg-info/SOURCES.txt'
+[15.611s] running build_ext
+[15.613s] Creating /home/ubuntu/pai_ws/install/physicalai_teleop/lib/python3.10/site-packages/physicalai-teleop.egg-link (link to .)
+[15.618s] Installing teleop_keyboard script to /home/ubuntu/pai_ws/install/physicalai_teleop/lib/physicalai_teleop
+[15.621s] 
+[15.622s] Installed /home/ubuntu/pai_ws/build/physicalai_teleop
+[15.623s] running symlink_data
+[15.831s] Invoked command in '/home/ubuntu/pai_ws/build/physicalai_teleop' returned '0': PYTHONPATH=/home/ubuntu/pai_ws/build/physicalai_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/pai_ws/install/physicalai_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/pai_ws/build/physicalai_teleop/build --no-deps symlink_data

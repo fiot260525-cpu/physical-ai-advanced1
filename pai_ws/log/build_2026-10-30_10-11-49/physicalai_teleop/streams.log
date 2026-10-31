@@ -1,0 +1,17 @@
+[1.026s] Invoking command in '/home/ubuntu/pai_ws/build/physicalai_teleop': PYTHONPATH=/home/ubuntu/pai_ws/build/physicalai_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/pai_ws/install/physicalai_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/pai_ws/build/physicalai_teleop/build --no-deps symlink_data
+[1.444s] running develop
+[1.703s] running egg_info
+[1.703s] writing physicalai_teleop.egg-info/PKG-INFO
+[1.703s] writing dependency_links to physicalai_teleop.egg-info/dependency_links.txt
+[1.704s] writing entry points to physicalai_teleop.egg-info/entry_points.txt
+[1.704s] writing requirements to physicalai_teleop.egg-info/requires.txt
+[1.704s] writing top-level names to physicalai_teleop.egg-info/top_level.txt
+[1.705s] reading manifest file 'physicalai_teleop.egg-info/SOURCES.txt'
+[1.706s] writing manifest file 'physicalai_teleop.egg-info/SOURCES.txt'
+[1.710s] running build_ext
+[1.710s] Creating /home/ubuntu/pai_ws/install/physicalai_teleop/lib/python3.10/site-packages/physicalai-teleop.egg-link (link to .)
+[1.710s] Installing teleop_keyboard script to /home/ubuntu/pai_ws/install/physicalai_teleop/lib/physicalai_teleop
+[1.711s] 
+[1.711s] Installed /home/ubuntu/pai_ws/build/physicalai_teleop
+[1.711s] running symlink_data
+[1.750s] Invoked command in '/home/ubuntu/pai_ws/build/physicalai_teleop' returned '0': PYTHONPATH=/home/ubuntu/pai_ws/build/physicalai_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/pai_ws/install/physicalai_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/pai_ws/build/physicalai_teleop/build --no-deps symlink_data

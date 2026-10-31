@@ -1,0 +1,178 @@
+[0.000000] (-) TimerEvent: {}
+[0.007892] (physicalai_teleop) JobQueued: {'identifier': 'physicalai_teleop', 'dependencies': OrderedDict()}
+[0.009052] (physicalai_teleop) JobStarted: {'identifier': 'physicalai_teleop'}
+[0.096552] (-) TimerEvent: {}
+[0.199611] (-) TimerEvent: {}
+[0.301611] (-) TimerEvent: {}
+[0.404492] (-) TimerEvent: {}
+[0.506421] (-) TimerEvent: {}
+[0.608295] (-) TimerEvent: {}
+[0.710121] (-) TimerEvent: {}
+[0.812097] (-) TimerEvent: {}
+[0.913900] (-) TimerEvent: {}
+[1.016055] (-) TimerEvent: {}
+[1.118070] (-) TimerEvent: {}
+[1.220242] (-) TimerEvent: {}
+[1.322761] (-) TimerEvent: {}
+[1.424551] (-) TimerEvent: {}
+[1.526355] (-) TimerEvent: {}
+[1.627855] (-) TimerEvent: {}
+[1.729125] (-) TimerEvent: {}
+[1.831174] (-) TimerEvent: {}
+[1.932919] (-) TimerEvent: {}
+[2.034967] (-) TimerEvent: {}
+[2.136546] (-) TimerEvent: {}
+[2.238468] (-) TimerEvent: {}
+[2.340897] (-) TimerEvent: {}
+[2.442684] (-) TimerEvent: {}
+[2.544096] (-) TimerEvent: {}
+[2.646485] (-) TimerEvent: {}
+[2.749256] (-) TimerEvent: {}
+[2.852136] (-) TimerEvent: {}
+[2.954158] (-) TimerEvent: {}
+[3.056136] (-) TimerEvent: {}
+[3.158962] (-) TimerEvent: {}
+[3.261720] (-) TimerEvent: {}
+[3.363638] (-) TimerEvent: {}
+[3.466148] (-) TimerEvent: {}
+[3.568467] (-) TimerEvent: {}
+[3.671115] (-) TimerEvent: {}
+[3.772662] (-) TimerEvent: {}
+[3.874845] (-) TimerEvent: {}
+[3.976848] (-) TimerEvent: {}
+[4.078995] (-) TimerEvent: {}
+[4.181196] (-) TimerEvent: {}
+[4.283043] (-) TimerEvent: {}
+[4.384949] (-) TimerEvent: {}
+[4.486681] (-) TimerEvent: {}
+[4.588721] (-) TimerEvent: {}
+[4.691626] (-) TimerEvent: {}
+[4.793751] (-) TimerEvent: {}
+[4.895923] (-) TimerEvent: {}
+[4.997601] (-) TimerEvent: {}
+[5.100056] (-) TimerEvent: {}
+[5.202735] (-) TimerEvent: {}
+[5.304348] (-) TimerEvent: {}
+[5.406679] (-) TimerEvent: {}
+[5.508381] (-) TimerEvent: {}
+[5.610251] (-) TimerEvent: {}
+[5.712753] (-) TimerEvent: {}
+[5.815422] (-) TimerEvent: {}
+[5.917669] (-) TimerEvent: {}
+[6.020542] (-) TimerEvent: {}
+[6.122248] (-) TimerEvent: {}
+[6.224167] (-) TimerEvent: {}
+[6.325767] (-) TimerEvent: {}
+[6.428015] (-) TimerEvent: {}
+[6.530296] (-) TimerEvent: {}
+[6.633830] (-) TimerEvent: {}
+[6.735491] (-) TimerEvent: {}
+[6.837203] (-) TimerEvent: {}
+[6.939093] (-) TimerEvent: {}
+[7.040768] (-) TimerEvent: {}
+[7.142770] (-) TimerEvent: {}
+[7.244647] (-) TimerEvent: {}
+[7.346754] (-) TimerEvent: {}
+[7.448414] (-) TimerEvent: {}
+[7.550289] (-) TimerEvent: {}
+[7.653192] (-) TimerEvent: {}
+[7.755768] (-) TimerEvent: {}
+[7.857220] (-) TimerEvent: {}
+[7.959365] (-) TimerEvent: {}
+[8.061009] (-) TimerEvent: {}
+[8.162715] (-) TimerEvent: {}
+[8.264818] (-) TimerEvent: {}
+[8.367117] (-) TimerEvent: {}
+[8.468935] (-) TimerEvent: {}
+[8.571582] (-) TimerEvent: {}
+[8.673680] (-) TimerEvent: {}
+[8.776725] (-) TimerEvent: {}
+[8.878801] (-) TimerEvent: {}
+[8.898876] (physicalai_teleop) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'develop', '--editable', '--build-directory', '/home/ubuntu/pai_ws/build/physicalai_teleop/build', '--no-deps', 'symlink_data'], 'cwd': '/home/ubuntu/pai_ws/build/physicalai_teleop', 'env': {'VNCDESKTOP': 'a8fe11e2b153:0 (ubuntu)', 'LESSOPEN': '| /usr/bin/lesspipe %s', 'QT_SCALE_FACTOR': '1', 'LANGUAGE': 'ja_JP.UTF-8', 'WORKSPACE_ROOT': '/home/ubuntu/airobot_ws', 'USER': 'ubuntu', 'SUPERVISOR_GROUP_NAME': 'vnc', 'HOSTNAME': 'a8fe11e2b153', 'XDG_SESSION_TYPE': 'x11', 'SHLVL': '2', 'LD_LIBRARY_PATH': '/home/ubuntu/airobot_ws/install/turtlebot3_msgs/lib:/home/ubuntu/airobot_ws/install/ros2_aruco_interfaces/lib:/home/ubuntu/airobot_ws/install/happy_interfaces/lib:/home/ubuntu/airobot_ws/install/happy_action_interfaces/lib:/home/ubuntu/airobot_ws/install/flexbe_msgs/lib:/home/ubuntu/airobot_ws/install/crane_plus_control/lib:/home/ubuntu/airobot_ws/install/airobot_interfaces/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib::/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:', 'HOME': '/home/ubuntu', 'OLDPWD': '/home/ubuntu/pai_ws/src', 'GIO_LAUNCHED_DESKTOP_FILE': '/home/ubuntu/Desktop/terminator.desktop', 'GAZEBO_MASTER_URI': 'http://localhost:11345', 'ROS_PYTHON_VERSION': '3', 'DBUS_SESSION_BUS_ADDRESS': 'unix:abstract=/tmp/dbus-Q7rKgiGUtX,guid=2ce3904a10b8596ea43680756ae07957', 'COLORTERM': 'truecolor', 'TERMINATOR_DBUS_NAME': 'net.tenshu.Terminator21a9d5db22c73a993ff0b42f64b396873', 'GIO_LAUNCHED_DESKTOP_FILE_PID': '2397', 'GNOME_KEYRING_CONTROL': '/home/ubuntu/.cache/keyring-VJCGY3', 'COLCON_PREFIX_PATH': '/home/ubuntu/airobot_ws/install', 'ROS_DISTRO': 'humble', 'GTK_IM_MODULE': 'fcitx', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'GTK_OVERLAY_SCROLLING': '0', 'GAZEBO_MODEL_PATH': '/usr/share/gazebo-11/models:', 'ROS_LOCALHOST_ONLY': '0', 'DONT_PROMPT_WSL_INSTALL': '1', 'INSIDE_CAJA_PYTHON': '', 'OGRE_RESOURCE_PATH': '/usr/lib/x86_64-linux-gnu/OGRE-1.9.0', 'PATH': '/home/ubuntu/.pixi/bin:/home/ubuntu/.local/bin:/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'SESSION_MANAGER': 'local/a8fe11e2b153:@/tmp/.ICE-unix/70,unix/a8fe11e2b153:/tmp/.ICE-unix/70', 'DISPLAY': ':0', 'TERMINATOR_DBUS_PATH': '/net/tenshu/Terminator2', 'LANG': 'ja_JP.UTF-8', 'XDG_CURRENT_DESKTOP': 'MATE', 'RMW_IMPLEMENTATION': 'rmw_cyclonedds_cpp', 'XMODIFIERS': '@im=fcitx', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'SUPERVISOR_ENABLED': '1', 'SSH_AUTH_SOCK': '/home/ubuntu/.cache/keyring-VJCGY3/ssh', 'AMENT_PREFIX_PATH': '/home/ubuntu/airobot_ws/install/yolov8_ros2:/home/ubuntu/airobot_ws/install/waypoint_navi:/home/ubuntu/airobot_ws/install/turtlebot3:/home/ubuntu/airobot_ws/install/turtlebot3_teleop:/home/ubuntu/airobot_ws/install/turtlebot3_simulations:/home/ubuntu/airobot_ws/install/turtlebot3_bringup:/home/ubuntu/airobot_ws/install/turtlebot3_node:/home/ubuntu/airobot_ws/install/turtlebot3_navigation2:/home/ubuntu/airobot_ws/install/turtlebot3_fake_node:/home/ubuntu/airobot_ws/install/turtlebot3_example:/home/ubuntu/airobot_ws/install/turtlebot3_msgs:/home/ubuntu/airobot_ws/install/turtlebot3_gazebo:/home/ubuntu/airobot_ws/install/turtlebot3_description:/home/ubuntu/airobot_ws/install/turtlebot3_cartographer:/home/ubuntu/airobot_ws/install/tf_examples:/home/ubuntu/airobot_ws/install/speech_topic:/home/ubuntu/airobot_ws/install/speech_service:/home/ubuntu/airobot_ws/install/speech_action:/home/ubuntu/airobot_ws/install/simple_arm_description:/home/ubuntu/airobot_ws/install/sample_sm_smach:/home/ubuntu/airobot_ws/install/sample_sm_flexbe:/home/ubuntu/airobot_ws/install/sample_sm_flexbe_states:/home/ubuntu/airobot_ws/install/sample_sm_flexbe_behaviors:/home/ubuntu/airobot_ws/install/ros2_aruco_interfaces:/home/ubuntu/airobot_ws/install/ros2_aruco:/home/ubuntu/airobot_ws/install/pymoveit2:/home/ubuntu/airobot_ws/install/pseudo_node_service:/home/ubuntu/airobot_ws/install/pseudo_node_action:/home/ubuntu/airobot_ws/install/opencv_ros2:/home/ubuntu/airobot_ws/install/hello:/home/ubuntu/airobot_ws/install/happy_topic:/home/ubuntu/airobot_ws/install/happy_teleop:/home/ubuntu/airobot_ws/install/happy_service:/home/ubuntu/airobot_ws/install/happy_pub_sub:/home/ubuntu/airobot_ws/install/happy_parameter:/home/ubuntu/airobot_ws/install/happy_move:/home/ubuntu/airobot_ws/install/happy_lidar:/home/ubuntu/airobot_ws/install/bringme_service:/home/ubuntu/airobot_ws/install/happy_interfaces:/home/ubuntu/airobot_ws/install/happy_action:/home/ubuntu/airobot_ws/install/bringme_action:/home/ubuntu/airobot_ws/install/happy_action_interfaces:/home/ubuntu/airobot_ws/install/happy:/home/ubuntu/airobot_ws/install/flexbe_behavior_engine:/home/ubuntu/airobot_ws/install/flexbe_widget:/home/ubuntu/airobot_ws/install/flexbe_webui:/home/ubuntu/airobot_ws/install/flexbe_onboard:/home/ubuntu/airobot_ws/install/flexbe_states:/home/ubuntu/airobot_ws/install/flexbe_testing:/home/ubuntu/airobot_ws/install/flexbe_mirror:/home/ubuntu/airobot_ws/install/flexbe_input:/home/ubuntu/airobot_ws/install/bringme_sm_behaviors:/home/ubuntu/airobot_ws/install/bringme_sm_flexbe_states:/home/ubuntu/airobot_ws/install/bringme_sm_flexbe_behaviors:/home/ubuntu/airobot_ws/install/flexbe_core:/home/ubuntu/airobot_ws/install/flexbe_msgs:/home/ubuntu/airobot_ws/install/crane_plus:/home/ubuntu/airobot_ws/install/crane_plus_gazebo:/home/ubuntu/airobot_ws/install/crane_plus_examples:/home/ubuntu/airobot_ws/install/crane_plus_moveit_config:/home/ubuntu/airobot_ws/install/crane_plus_control:/home/ubuntu/airobot_ws/install/crane_plus_description:/home/ubuntu/airobot_ws/install/crane_plus_commander:/home/ubuntu/airobot_ws/install/bringme_sm_smach:/home/ubuntu/airobot_ws/install/amcl_subscriber:/home/ubuntu/airobot_ws/install/airobot_action:/home/ubuntu/airobot_ws/install/airobot_interfaces:/opt/ros/humble', 'DefaultIMModule': 'fcitx', 'DEBIAN_FRONTEND': 'noninteractive', 'TERMINATOR_UUID': 'urn:uuid:786a8076-ee77-4970-8a4f-e3e0e0610a47', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'SUPERVISOR_SERVER_URL': 'unix:///var/run/supervisor.sock', 'GAZEBO_RESOURCE_PATH': '/usr/share/gazebo-11:', 'GAZEBO_MODEL_DATABASE_URI': 'http://models.gazebosim.org', 'QT_IM_MODULE': 'fcitx', 'SUPERVISOR_PROCESS_NAME': 'vnc', 'PWD': '/home/ubuntu/pai_ws/build/physicalai_teleop', 'TURTLEBOT3_MODEL': 'happy_mini', 'GAZEBO_PLUGIN_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:', 'PYTHONPATH': '/home/ubuntu/pai_ws/build/physicalai_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/pai_ws/install/physicalai_teleop/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/build/yolov8_ros2:/home/ubuntu/airobot_ws/install/yolov8_ros2/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/build/waypoint_navi:/home/ubuntu/airobot_ws/install/waypoint_navi/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/build/turtlebot3_teleop:/home/ubuntu/airobot_ws/install/turtlebot3_teleop/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/build/turtlebot3_example:/home/ubuntu/airobot_ws/install/turtlebot3_example/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:/home/ubuntu/airobot_ws/build/tf_examples:/home/ubuntu/airobot_ws/install/tf_examples/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/build/speech_topic:/home/ubuntu/airobot_ws/install/speech_topic/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/build/speech_service:/home/ubuntu/airobot_ws/install/speech_service/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/build/speech_action:/home/ubuntu/airobot_ws/install/speech_action/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/build/sample_sm_smach:/home/ubuntu/airobot_ws/install/sample_sm_smach/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/build/sample_sm_flexbe_states:/home/ubuntu/airobot_ws/install/sample_sm_flexbe_states/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/install/sample_sm_flexbe_behaviors/local/lib/python3.10/dist-packages:/home/ubuntu/airobot_ws/install/ros2_aruco_interfaces/local/lib/python3.10/dist-packages:/home/ubuntu/airobot_ws/build/ros2_aruco:/home/ubuntu/airobot_ws/install/ros2_aruco/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/install/pymoveit2/local/lib/python3.10/dist-packages:/home/ubuntu/airobot_ws/build/pseudo_node_service:/home/ubuntu/airobot_ws/install/pseudo_node_service/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/build/pseudo_node_action:/home/ubuntu/airobot_ws/install/pseudo_node_action/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/build/opencv_ros2:/home/ubuntu/airobot_ws/install/opencv_ros2/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/build/hello:/home/ubuntu/airobot_ws/install/hello/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/build/happy_topic:/home/ubuntu/airobot_ws/install/happy_topic/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/build/happy_teleop:/home/ubuntu/airobot_ws/install/happy_teleop/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/build/happy_service:/home/ubuntu/airobot_ws/install/happy_service/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/build/happy_pub_sub:/home/ubuntu/airobot_ws/install/happy_pub_sub/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/build/happy_parameter:/home/ubuntu/airobot_ws/install/happy_parameter/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/build/happy_move:/home/ubuntu/airobot_ws/install/happy_move/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/build/happy_lidar:/home/ubuntu/airobot_ws/install/happy_lidar/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/build/bringme_service:/home/ubuntu/airobot_ws/install/bringme_service/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/install/happy_interfaces/local/lib/python3.10/dist-packages:/home/ubuntu/airobot_ws/build/happy_action:/home/ubuntu/airobot_ws/install/happy_action/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/build/bringme_action:/home/ubuntu/airobot_ws/install/bringme_action/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/install/happy_action_interfaces/local/lib/python3.10/dist-packages:/home/ubuntu/airobot_ws/build/happy:/home/ubuntu/airobot_ws/install/happy/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/install/flexbe_widget/local/lib/python3.10/dist-packages:/home/ubuntu/airobot_ws/build/flexbe_webui:/home/ubuntu/airobot_ws/install/flexbe_webui/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/build/flexbe_onboard:/home/ubuntu/airobot_ws/install/flexbe_onboard/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/build/flexbe_states:/home/ubuntu/airobot_ws/install/flexbe_states/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/install/flexbe_testing/local/lib/python3.10/dist-packages:/home/ubuntu/airobot_ws/build/flexbe_mirror:/home/ubuntu/airobot_ws/install/flexbe_mirror/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/build/flexbe_input:/home/ubuntu/airobot_ws/install/flexbe_input/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/build/bringme_sm_flexbe_states:/home/ubuntu/airobot_ws/install/bringme_sm_flexbe_states/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/install/bringme_sm_flexbe_behaviors/local/lib/python3.10/dist-packages:/home/ubuntu/airobot_ws/build/flexbe_core:/home/ubuntu/airobot_ws/install/flexbe_core/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/install/flexbe_msgs/local/lib/python3.10/dist-packages:/home/ubuntu/airobot_ws/install/crane_plus_description/local/lib/python3.10/dist-packages:/home/ubuntu/airobot_ws/build/crane_plus_commander:/home/ubuntu/airobot_ws/install/crane_plus_commander/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/build/bringme_sm_smach:/home/ubuntu/airobot_ws/install/bringme_sm_smach/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/build/amcl_subscriber:/home/ubuntu/airobot_ws/install/amcl_subscriber/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/build/airobot_action:/home/ubuntu/airobot_ws/install/airobot_action/lib/python3.10/site-packages:/home/ubuntu/airobot_ws/install/airobot_interfaces/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'MATE_DESKTOP_SESSION_ID': 'this-is-deprecated', 'TZ': 'Asia/Tokyo', 'COLCON': '1', 'VTE_VERSION': '6800', 'CMAKE_PREFIX_PATH': '/home/ubuntu/airobot_ws/install/turtlebot3:/home/ubuntu/airobot_ws/install/turtlebot3_simulations:/home/ubuntu/airobot_ws/install/turtlebot3_bringup:/home/ubuntu/airobot_ws/install/turtlebot3_node:/home/ubuntu/airobot_ws/install/turtlebot3_navigation2:/home/ubuntu/airobot_ws/install/turtlebot3_fake_node:/home/ubuntu/airobot_ws/install/turtlebot3_msgs:/home/ubuntu/airobot_ws/install/turtlebot3_gazebo:/home/ubuntu/airobot_ws/install/turtlebot3_description:/home/ubuntu/airobot_ws/install/turtlebot3_cartographer:/home/ubuntu/airobot_ws/install/simple_arm_description:/home/ubuntu/airobot_ws/install/sample_sm_flexbe:/home/ubuntu/airobot_ws/install/sample_sm_flexbe_behaviors:/home/ubuntu/airobot_ws/install/ros2_aruco_interfaces:/home/ubuntu/airobot_ws/install/pymoveit2:/home/ubuntu/airobot_ws/install/happy_interfaces:/home/ubuntu/airobot_ws/install/happy_action_interfaces:/home/ubuntu/airobot_ws/install/flexbe_behavior_engine:/home/ubuntu/airobot_ws/install/flexbe_widget:/home/ubuntu/airobot_ws/install/flexbe_testing:/home/ubuntu/airobot_ws/install/bringme_sm_behaviors:/home/ubuntu/airobot_ws/install/bringme_sm_flexbe_behaviors:/home/ubuntu/airobot_ws/install/flexbe_msgs:/home/ubuntu/airobot_ws/install/crane_plus:/home/ubuntu/airobot_ws/install/crane_plus_gazebo:/home/ubuntu/airobot_ws/install/crane_plus_examples:/home/ubuntu/airobot_ws/install/crane_plus_moveit_config:/home/ubuntu/airobot_ws/install/crane_plus_control:/home/ubuntu/airobot_ws/install/crane_plus_description:/home/ubuntu/airobot_ws/install/airobot_interfaces', 'QT_FONT_DPI': '96'}, 'shell': False}
+[8.979341] (-) TimerEvent: {}
+[9.081289] (-) TimerEvent: {}
+[9.183075] (-) TimerEvent: {}
+[9.284810] (-) TimerEvent: {}
+[9.386685] (-) TimerEvent: {}
+[9.489046] (-) TimerEvent: {}
+[9.591156] (-) TimerEvent: {}
+[9.692929] (-) TimerEvent: {}
+[9.796887] (-) TimerEvent: {}
+[9.899058] (-) TimerEvent: {}
+[10.000636] (-) TimerEvent: {}
+[10.102465] (-) TimerEvent: {}
+[10.204225] (-) TimerEvent: {}
+[10.306362] (-) TimerEvent: {}
+[10.408358] (-) TimerEvent: {}
+[10.510236] (-) TimerEvent: {}
+[10.611427] (-) TimerEvent: {}
+[10.712854] (-) TimerEvent: {}
+[10.815175] (-) TimerEvent: {}
+[10.916905] (-) TimerEvent: {}
+[11.019461] (-) TimerEvent: {}
+[11.121452] (-) TimerEvent: {}
+[11.223063] (-) TimerEvent: {}
+[11.325016] (-) TimerEvent: {}
+[11.427428] (-) TimerEvent: {}
+[11.529278] (-) TimerEvent: {}
+[11.632026] (-) TimerEvent: {}
+[11.733627] (-) TimerEvent: {}
+[11.835906] (-) TimerEvent: {}
+[11.938189] (-) TimerEvent: {}
+[12.041472] (-) TimerEvent: {}
+[12.143873] (-) TimerEvent: {}
+[12.246641] (-) TimerEvent: {}
+[12.348553] (-) TimerEvent: {}
+[12.450137] (-) TimerEvent: {}
+[12.552150] (-) TimerEvent: {}
+[12.654213] (-) TimerEvent: {}
+[12.756757] (-) TimerEvent: {}
+[12.858830] (-) TimerEvent: {}
+[12.902412] (physicalai_teleop) StdoutLine: {'line': b'running develop\n'}
+[12.959281] (-) TimerEvent: {}
+[13.061001] (-) TimerEvent: {}
+[13.162835] (-) TimerEvent: {}
+[13.265367] (-) TimerEvent: {}
+[13.368157] (-) TimerEvent: {}
+[13.470225] (-) TimerEvent: {}
+[13.572870] (-) TimerEvent: {}
+[13.675093] (-) TimerEvent: {}
+[13.776829] (-) TimerEvent: {}
+[13.879740] (-) TimerEvent: {}
+[13.981138] (-) TimerEvent: {}
+[14.082610] (-) TimerEvent: {}
+[14.184061] (-) TimerEvent: {}
+[14.285604] (-) TimerEvent: {}
+[14.388262] (-) TimerEvent: {}
+[14.489640] (-) TimerEvent: {}
+[14.591552] (-) TimerEvent: {}
+[14.693375] (-) TimerEvent: {}
+[14.795177] (-) TimerEvent: {}
+[14.896943] (-) TimerEvent: {}
+[14.999580] (-) TimerEvent: {}
+[15.101444] (-) TimerEvent: {}
+[15.203663] (-) TimerEvent: {}
+[15.305312] (-) TimerEvent: {}
+[15.407831] (-) TimerEvent: {}
+[15.510101] (-) TimerEvent: {}
+[15.557873] (physicalai_teleop) StdoutLine: {'line': b'running egg_info\n'}
+[15.560249] (physicalai_teleop) StdoutLine: {'line': b'writing physicalai_teleop.egg-info/PKG-INFO\n'}
+[15.562672] (physicalai_teleop) StdoutLine: {'line': b'writing dependency_links to physicalai_teleop.egg-info/dependency_links.txt\n'}
+[15.566421] (physicalai_teleop) StdoutLine: {'line': b'writing entry points to physicalai_teleop.egg-info/entry_points.txt\n'}
+[15.569689] (physicalai_teleop) StdoutLine: {'line': b'writing requirements to physicalai_teleop.egg-info/requires.txt\n'}
+[15.575184] (physicalai_teleop) StdoutLine: {'line': b'writing top-level names to physicalai_teleop.egg-info/top_level.txt\n'}
+[15.588525] (physicalai_teleop) StdoutLine: {'line': b"reading manifest file 'physicalai_teleop.egg-info/SOURCES.txt'\n"}
+[15.593491] (physicalai_teleop) StdoutLine: {'line': b"writing manifest file 'physicalai_teleop.egg-info/SOURCES.txt'\n"}
+[15.610504] (-) TimerEvent: {}
+[15.619029] (physicalai_teleop) StdoutLine: {'line': b'running build_ext\n'}
+[15.621063] (physicalai_teleop) StdoutLine: {'line': b'Creating /home/ubuntu/pai_ws/install/physicalai_teleop/lib/python3.10/site-packages/physicalai-teleop.egg-link (link to .)\n'}
+[15.626634] (physicalai_teleop) StdoutLine: {'line': b'Installing teleop_keyboard script to /home/ubuntu/pai_ws/install/physicalai_teleop/lib/physicalai_teleop\n'}
+[15.629450] (physicalai_teleop) StdoutLine: {'line': b'\n'}
+[15.630502] (physicalai_teleop) StdoutLine: {'line': b'Installed /home/ubuntu/pai_ws/build/physicalai_teleop\n'}
+[15.631923] (physicalai_teleop) StdoutLine: {'line': b'running symlink_data\n'}
+[15.710961] (-) TimerEvent: {}
+[15.813799] (-) TimerEvent: {}
+[15.834270] (physicalai_teleop) CommandEnded: {'returncode': 0}
+[15.916604] (-) TimerEvent: {}
+[15.970514] (physicalai_teleop) JobEnded: {'identifier': 'physicalai_teleop', 'rc': 0}
+[15.975859] (-) EventReactorShutdown: {}
