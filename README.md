@@ -20,6 +20,6 @@ CRANEでPick&Place作業に類似した動きを模倣学習ACTで学習した�
 
 (3)開発環境の問題などを排除するためGit cloneからやり直してみる
 
-(4)localhostの仮想環境ではなくGPUマシンで動かしてみる　など
+(4)localhostのUbunts仮想環境ではなくGPUマシンで動かしてみる　など
 
 
