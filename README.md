@@ -7,3 +7,11 @@ CRANEでPick&Place作業に類似した動きを模倣学習ACTで学習した�
 注意：actフォルダ内のmodel\.safetensorsはファイルサイズが大きいため未登録。
 
 ＊現時点では、推論のデプロイでCRANEを正しく動かせていない。原因調査中。
+(1)Ubunts仮想環境で不要なteminatorをクローズ
+(2)学習タスク内に初動位置に戻す動作を入れないように変更（Pekori1→Pekori2）
+(2)生成AIに相談し以下は確認
+・推論ノードは動作している
+・trajectory指令もpublishできている
+(3)開発環境の問題などを排除するためGit cloneからやり直し
+
+
